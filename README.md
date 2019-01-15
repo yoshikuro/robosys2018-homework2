@@ -15,6 +15,11 @@
     利用パッケージ
       usb_cam(https://github.com/ros-drivers/usb_cam) (BSD License)
       
+  ### 事前準備
+    ・ROS kineticが利用できる環境
+    ・ROS.org (http://wiki.ros.org/) から usb_cam パッケージを入れる
+    ・USBカメラを接続
+      
 ## 利用
   1. usb_cam-test.launch を起動
       ```
@@ -49,3 +54,6 @@
       $ rqt_graph
       ```
       ![rqt_graph](https://github.com/yoshikuro/robosys2018-homework2/blob/master/rqt_graph.png)
+      
+## 動画
+  URL: (https://youtu.be/lTCVF7XMqt4)
