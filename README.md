@@ -11,9 +11,9 @@
   * ビデオメモリ:   256 MB
   
   ROS
-    バージョン:  kinetic
-    利用パッケージ
-      usb_cam(https://github.com/ros-drivers/usb_cam) (BSD License)
+    * バージョン:  kinetic
+    * 利用パッケージ
+      * usb_cam(https://github.com/ros-drivers/usb_cam) (BSD License)
       
   ### 事前準備
     ・ROS kineticが利用できる環境
