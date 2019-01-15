@@ -1,7 +1,7 @@
 # 2018年 ロボットシステム学第2回課題
 
 ## 概要
-  このパッケージでは、USBカメラを扱うパッケージ(https://github.com/ros-drivers/usb_cam)を利用することで、
+  このパッケージでは、USBカメラを扱うパッケージ(https://github.com/ros-drivers/usb_cam) を利用することで、
   3色(赤、青、黄)のボール(円)を検出することができます。
 
 ## 環境
