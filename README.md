@@ -13,7 +13,7 @@
   ROS
     バージョン:  kinetic
     利用パッケージ
-      usb_cam(https://github.com/ros-drivers/usb_cam)(BSD License)
+      usb_cam(https://github.com/ros-drivers/usb_cam) (BSD License)
       
 ## 利用
   1. usb_cam-test.launch を起動
@@ -48,8 +48,4 @@
       ```
       $ rqt_graph
       ```
-      
-      
-      
-      
-      
+      ![rqt_graph](C:\Users\jealo\Pictures\Screenshots)
